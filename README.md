@@ -1,4 +1,4 @@
-Meesho is an indian e-commerce company, We tried core functionalities of Meesho during Third Construct Week held after completition of Unit 4 in Masai.
+Meesho is an indian e-commerce company,
 
 ## Technologies used :-
 1) React
